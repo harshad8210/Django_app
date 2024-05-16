@@ -1,5 +1,3 @@
-# Django_app
-
 ### Project Setup
 
 #### Requirements Installation
